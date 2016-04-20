@@ -7,4 +7,4 @@
         </html>
 [link](http://www.google.com)
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.jpg)
